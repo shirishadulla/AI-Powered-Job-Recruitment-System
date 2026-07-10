@@ -1,0 +1,283 @@
+# AI-Powered Job Recruitment System
+
+### Salesforce Admin Project Report
+
+---
+
+# Title Page
+
+**Project Title:** AI-Powered Job Recruitment System
+
+**Developed By:** Akella Lakshmi Aiswarya
+
+**Course:** Bachelor of Technology (Computer Science Engineering – Artificial Intelligence & Machine Learning)
+
+**Project Type:** Salesforce Admin Project
+
+**Platform:** Salesforce Lightning Platform with Agentforce
+
+**Academic Year:** 2026
+
+---
+
+# Abstract
+
+The AI-Powered Job Recruitment System is a Salesforce-based recruitment management solution designed to simplify and automate the hiring process. Traditional recruitment methods often involve manual tracking of candidates, approval delays, and scattered information, making the process inefficient and time-consuming.
+
+This project utilizes Salesforce Lightning Platform to create a centralized recruitment application featuring custom objects, automated workflows, approval processes, dashboards, reports, and Agentforce AI capabilities. Recruiters can manage job openings, monitor candidate applications, automate approval workflows, and analyze recruitment performance through interactive dashboards.
+
+The system improves productivity, minimizes manual effort, enhances data accuracy, and supports faster hiring decisions using AI-powered insights.
+
+---
+
+# 1. Introduction
+
+Recruitment is one of the most critical business processes in every organization. Managing job openings, candidate applications, interviews, and approvals manually can result in delays, errors, and inefficient communication.
+
+Organizations require a centralized platform where recruiters can easily manage applicants, automate repetitive tasks, and monitor hiring progress.
+
+Salesforce provides an ideal platform for building recruitment solutions because of its powerful CRM capabilities, automation tools, reporting features, and AI-powered Agentforce assistant.
+
+This project demonstrates how Salesforce can be customized into a smart recruitment management system capable of improving recruitment efficiency and supporting data-driven hiring decisions.
+
+---
+
+# 2. Problem Statement
+
+Many organizations still rely on spreadsheets, emails, and manual processes to manage recruitment.
+
+Common challenges include:
+
+* Difficulty tracking candidate applications
+* Delays in approval processes
+* Manual follow-ups
+* Lack of centralized recruitment data
+* Limited reporting capabilities
+* Inefficient communication between HR teams
+
+These challenges increase recruitment time and reduce hiring efficiency.
+
+---
+
+# 3. Objectives
+
+The primary objectives of this project are:
+
+* Automate recruitment workflows
+* Manage job openings efficiently
+* Store candidate information in a centralized system
+* Automate approval processes
+* Generate recruitment reports and dashboards
+* Improve hiring decisions using AI Candidate Scoring
+* Demonstrate Salesforce automation capabilities
+
+---
+
+# 4. Tools & Technologies Used
+
+| Technology           | Purpose                                        |
+| -------------------- | ---------------------------------------------- |
+| Salesforce Lightning | CRM Platform                                   |
+| Custom Objects       | Candidate Application & Job Opening Management |
+| Custom Fields        | Candidate Information Storage                  |
+| Flow Builder         | Workflow Automation                            |
+| Approval Process     | Candidate Approval Workflow                    |
+| Reports              | Recruitment Analytics                          |
+| Dashboards           | Visual Business Intelligence                   |
+| Agentforce           | AI-powered Recruitment Assistant               |
+
+---
+
+# 5. System Modules
+
+## 5.1 Job Opening Management
+
+Recruiters create and manage job openings including:
+
+* Job Title
+* Department
+* Location
+* Salary
+* Hiring Status
+* Required Skills
+
+---
+
+## 5.2 Candidate Application Management
+
+Candidate applications contain:
+
+* Candidate Details
+* Contact Information
+* Applied Position
+* Resume Information
+* AI Candidate Score
+* Application Status
+* Approval Status
+
+---
+
+## 5.3 Flow Automation
+
+Salesforce Flow Builder automates:
+
+* Candidate submission
+* Notification process
+* Approval initiation
+* Status updates
+* Automated field updates
+
+This reduces repetitive manual work.
+
+---
+
+## 5.4 Approval Process
+
+The approval process ensures every candidate follows a structured review process before selection.
+
+Approval stages include:
+
+* Pending
+* Approved
+* Rejected
+
+Managers receive approval requests automatically.
+
+---
+
+## 5.5 Reports
+
+Recruitment reports provide insights into:
+
+* Total Applications
+* Approved Candidates
+* Pending Applications
+* Job-wise Applications
+* Candidate Status Distribution
+
+---
+
+## 5.6 Dashboards
+
+Interactive dashboards visualize recruitment performance using charts and graphs.
+
+Dashboards display:
+
+* Recruitment Overview
+* Hiring Progress
+* Candidate Pipeline
+* Approval Statistics
+* Application Trends
+
+---
+
+## 5.7 Agentforce Assistant
+
+Agentforce enhances recruitment through AI by assisting recruiters with:
+
+* Candidate summaries
+* AI candidate scoring
+* Hiring recommendations
+* Recruitment insights
+* Productivity improvements
+
+---
+
+# 6. Workflow
+
+The recruitment workflow follows these steps:
+
+```
+Job Opening Created
+        ↓
+Candidate Applies
+        ↓
+Candidate Application Created
+        ↓
+AI Candidate Score Generated
+        ↓
+Flow Automation Triggered
+        ↓
+Approval Process Initiated
+        ↓
+Manager Review
+        ↓
+Approved / Rejected
+        ↓
+Hiring Decision
+```
+
+---
+
+# 7. Project Features
+
+The system provides the following features:
+
+* Job Opening Management
+* Candidate Application Tracking
+* AI Candidate Scoring
+* Flow Automation
+* Approval Process
+* Reports
+* Dashboards
+* Agentforce Integration
+* Centralized Recruitment Data
+* Reduced Manual Effort
+
+---
+# 9. Testing
+
+The system was tested by:
+
+* Creating multiple Job Openings
+* Creating Candidate Applications
+* Executing Flow Automation
+* Verifying Approval Process
+* Viewing Reports
+* Monitoring Dashboard Updates
+* Testing Agentforce functionality
+
+All core functionalities operated successfully.
+
+---
+
+# 10. Results
+
+The project successfully achieved its objectives.
+
+Benefits include:
+
+* Faster recruitment process
+* Reduced manual effort
+* Centralized candidate information
+* Automated approval workflow
+* Improved reporting
+* Better recruitment visibility
+* AI-assisted hiring support
+* Increased recruiter productivity
+
+---
+
+# 11. Future Enhancements
+
+Possible future improvements include:
+
+* Resume Parsing
+* Email Automation
+* Interview Scheduling
+* Candidate Skill Matching
+* AI Resume Ranking
+* Integration with LinkedIn
+* Mobile Application Support
+* Predictive Hiring Analytics
+* Automated Offer Letter Generation
+
+---
+
+# 12. Conclusion
+
+The AI-Powered Job Recruitment System demonstrates how Salesforce can be customized into an intelligent recruitment platform using declarative tools and AI capabilities.
+
+By combining Custom Objects, Flow Builder, Approval Processes, Reports, Dashboards, and Agentforce, the system simplifies recruitment management, minimizes manual work, and improves hiring efficiency.
+
+The project showcases practical Salesforce Administration skills while highlighting the benefits of automation and AI in modern recruitment processes. It serves as a scalable foundation that can be extended with advanced integrations and additional AI-driven features to meet future organizational needs.
