@@ -1,0 +1,317 @@
+# AI-Powered Job Recruitment System
+
+## User Guide
+
+**Developed By:** Akella Lakshmi Aiswarya
+
+**Project Type:** Salesforce Admin Project
+
+**Platform:** Salesforce Lightning with Agentforce
+
+**Version:** 1.0
+
+**Year:** 2026
+
+---
+
+# Table of Contents
+
+1. Introduction
+2. System Requirements
+3. User Roles
+4. Logging into Salesforce
+5. Accessing the Recruitment Application
+6. Managing Job Openings
+7. Managing Candidate Applications
+8. Understanding AI Candidate Score
+9. Using the Approval Process
+10. Working with Reports
+11. Using Dashboards
+12. Using Agentforce
+13. Troubleshooting
+14. Best Practices
+15. Frequently Asked Questions
+16. Conclusion
+
+---
+
+# 1. Introduction
+
+The **AI-Powered Job Recruitment System** is a Salesforce-based recruitment management application developed to automate and simplify the hiring process. The application enables recruiters and hiring managers to create job openings, manage candidate applications, automate approval workflows, monitor recruitment activities, and use AI-powered insights through Agentforce.
+
+The primary goal of the system is to reduce manual effort, improve recruitment efficiency, and provide better visibility into hiring activities through Salesforce automation tools.
+
+---
+
+# 2. System Requirements
+
+Before using the application, ensure the following requirements are met:
+
+* Salesforce Developer Edition or Sandbox account
+* Lightning Experience enabled
+* Google Chrome, Microsoft Edge, or Mozilla Firefox
+* Stable internet connection
+* Appropriate Salesforce user permissions
+
+---
+
+# 3. User Roles
+
+The system supports multiple users with different responsibilities.
+
+### Recruiter
+
+* Create and manage Job Openings
+* Create Candidate Applications
+* Monitor application progress
+* View reports and dashboards
+
+### Hiring Manager
+
+* Review candidate applications
+* Approve or reject candidates
+* Monitor recruitment status
+
+### Salesforce Administrator
+
+* Configure custom objects
+* Maintain automation
+* Manage user permissions
+* Configure Agentforce
+* Maintain reports and dashboards
+
+---
+
+# 4. Logging into Salesforce
+
+Follow these steps to access the application:
+
+1. Open your Salesforce login page.
+2. Enter your Username and Password.
+3. Click **Log In**.
+4. After successful authentication, Salesforce Home will open.
+5. Click the **App Launcher** located in the upper-left corner.
+6. Search for **AI-Powered Job Recruitment System**.
+7. Open the application.
+
+You are now ready to use the recruitment system.
+
+---
+
+# 5. Accessing the Recruitment Application
+
+The Lightning App provides quick access to all recruitment modules.
+
+The navigation menu includes:
+
+* Home
+* Job Openings
+* Candidate Applications
+* Reports
+* Dashboards
+* Agentforce
+
+Use the navigation bar to switch between different modules without leaving the application.
+
+---
+
+# 6. Managing Job Openings
+
+Job Openings represent available positions within the organization.
+
+### Creating a Job Opening
+
+1. Open the **Job Openings** tab.
+2. Click **New**.
+3. Enter all required information such as:
+
+   * Job Title
+   * Department
+   * Location
+   * Employment Type
+   * Salary
+   * Required Skills
+   * Hiring Status
+4. Review the entered information.
+5. Click **Save**.
+
+### Updating a Job Opening
+
+* Open the desired Job Opening.
+* Click **Edit**.
+* Modify the required fields.
+* Save the changes.
+
+---
+
+# 7. Managing Candidate Applications
+
+Candidate Applications store information about applicants.
+
+### Creating a Candidate Application
+
+1. Open the **Candidate Applications** tab.
+2. Click **New**.
+3. Select the candidate.
+4. Link the appropriate Job Opening.
+5. Complete all required fields.
+6. Review the AI Candidate Score.
+7. Save the record.
+
+### Updating an Application
+
+* Open the application.
+* Click **Edit**.
+* Update the necessary information.
+* Save the record.
+
+The application status can be updated as the recruitment process progresses.
+
+---
+
+# 8. Understanding AI Candidate Score
+
+The AI Candidate Score is generated to assist recruiters in evaluating applicants.
+
+The score is based on candidate information and helps identify applicants who are a strong match for a particular job opening.
+
+The score should be considered as a recommendation and should always be reviewed alongside interviews, technical assessments, and recruiter evaluations.
+
+---
+
+# 9. Using the Approval Process
+
+The approval process ensures that hiring decisions follow organizational policies.
+
+### Approval Workflow
+
+1. Open a Candidate Application.
+2. Submit the application for approval.
+3. The request is forwarded to the assigned manager.
+4. The manager reviews the application.
+5. The application is either:
+
+   * Approved
+   * Rejected
+   * Left Pending
+6. The Approval Status field updates automatically.
+
+This workflow minimizes manual follow-up and improves transparency.
+
+---
+
+# 10. Working with Reports
+
+Reports provide valuable insights into recruitment activities.
+
+Users can generate reports to analyze:
+
+* Total Applications
+* Applications by Job Opening
+* Candidate Status
+* Approval Status
+* Recruitment Progress
+
+Reports can also be filtered, grouped, and exported for analysis.
+
+---
+
+# 11. Using Dashboards
+
+Dashboards display recruitment information in a graphical format.
+
+Typical dashboard components include:
+
+* Total Candidates
+* Open Job Openings
+* Approved Candidates
+* Pending Applications
+* Recruitment Trends
+
+These visualizations help management monitor recruitment performance more effectively.
+
+---
+
+# 12. Using Agentforce
+
+Agentforce integrates AI capabilities into the recruitment process.
+
+Recruiters can use Agentforce to:
+
+* Generate candidate summaries
+* Review AI-based hiring recommendations
+* Analyze candidate information
+* Improve recruitment productivity
+* Support hiring decisions with AI insights
+
+Agentforce acts as an intelligent assistant and complements the recruiter's decision-making process.
+
+---
+
+# 13. Troubleshooting
+
+### Unable to Save a Record
+
+* Ensure all required fields are completed.
+* Verify that the user has sufficient permissions.
+
+### Approval Process Not Working
+
+* Confirm that the approval process is active.
+* Check whether the record meets the approval criteria.
+
+### Reports Show No Data
+
+* Verify that candidate and job records exist.
+* Check report filters and visibility settings.
+
+### Agentforce Not Responding
+
+* Ensure Agentforce has been configured correctly.
+* Verify user permissions and AI access.
+
+---
+
+# 14. Best Practices
+
+To ensure smooth operation of the system:
+
+* Maintain accurate candidate information.
+* Regularly update job openings.
+* Review dashboards frequently.
+* Use reports for recruitment analysis.
+* Validate AI recommendations before making hiring decisions.
+* Monitor approval requests regularly.
+* Ensure appropriate user permissions are assigned.
+
+---
+
+# 15. Frequently Asked Questions (FAQ)
+
+**Q1. Can a Job Opening be edited after creation?**
+
+Yes. Authorized users can edit job details whenever required.
+
+**Q2. Can a Candidate Application be updated?**
+
+Yes. Applications can be modified until the recruitment process is completed, subject to organization permissions.
+
+**Q3. Why is my report empty?**
+
+Ensure records are available and verify the report filters.
+
+**Q4. What does the AI Candidate Score represent?**
+
+It represents an AI-generated recommendation indicating how well a candidate aligns with a job opening.
+
+**Q5. Is Agentforce responsible for making hiring decisions?**
+
+No. Agentforce provides recommendations and insights. Final hiring decisions remain the responsibility of recruiters and hiring managers.
+
+---
+
+# 16. Conclusion
+
+The AI-Powered Job Recruitment System provides a centralized and efficient platform for managing recruitment activities within Salesforce. By integrating Custom Objects, Flow Builder, Approval Processes, Reports, Dashboards, and Agentforce, the system streamlines candidate management, reduces manual effort, and enhances decision-making through automation and AI-powered insights.
+
+Following this guide will help users effectively navigate the application, manage recruitment processes, and leverage Salesforce features to improve hiring efficiency.
