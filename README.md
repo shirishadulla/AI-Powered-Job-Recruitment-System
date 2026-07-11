@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Intelligent Recruitment Management Powered by Salesforce & Agentforce AI
+### AI-Powered Job Recruitment & Candidate Management System
 
 Automating the hiring lifecycle with **Salesforce Lightning**, **Flow Builder**, **Approval Processes**, **Reports & Dashboards**, and **Agentforce AI**.
 
