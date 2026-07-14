@@ -12,7 +12,10 @@ Automating the hiring lifecycle with **Salesforce Lightning**, **Flow Builder**,
 | -------------------------------------- | -------------------------------------------------------------- |
 | **Akella Lakshmi Aiswarya**            | Team Lead • Salesforce Administrator • AI Workflow Development |
 | **Mandapati Radhika Satya Malleswari** | Salesforce Administrator • Testing & Documentation             |
+| **Dulla shirisha**                     | Salesforce Developer • AI Integration Specialist               |
+| **chodisetti Harshitha**               | Business Analyst • User Training Specialist                    |
 
+---
 ---
 
 # 🎥 Project Demonstration
